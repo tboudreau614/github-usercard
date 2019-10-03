@@ -25,6 +25,7 @@
 */
 
 const followersArray = [
+  'tboudreau614',
   'tetondan',
   'dustinmyers',
   'justsml',
